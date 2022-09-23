@@ -1,0 +1,4 @@
+pytorch-lightning>=1.4
+torchmetrics>=0.7
+setuptools==59.5.0
+clean-fid
